@@ -16,4 +16,5 @@
 {"date": "2026-07-30", "merkle_root": "8031721c92dcbaaa251073139786d4cf9050646643fa70b4f4ce18884d6173ef", "ots_status": "submitted", "ots_proof": "digests/2026-07-30.merkle.ots", "updated": "2026-09-29T23:55:36Z"}
 {"date": "2026-07-31", "merkle_root": "4801af3ebb0396b23045bcf9c68991d9071418294fa6b5d4fb72c6a5b2a1b59e", "ots_status": "submitted", "ots_proof": "digests/2026-07-31.merkle.ots", "updated": "2026-09-29T23:55:39Z"}
 {"date": "2026-08-01", "merkle_root": "0b86814c82b319f95b6370e4371901c09a6442ac0f2fb699d3684ab29f343018", "ots_status": "submitted", "ots_proof": "digests/2026-08-01.merkle.ots", "updated": "2026-09-29T23:55:41Z"}
+{"date": "2026-08-02", "merkle_root": "067b9a5d48493e5d73a9556de2168c4315b2a6289a802e32c5a905e58b0772e1", "ots_status": "submitted", "ots_proof": "digests/2026-08-02.merkle.ots", "updated": "2026-09-29T23:55:43Z"}
 {"date": "2026-09-28", "merkle_root": "060b9a93a59de7f670c90bc8d85a58e5c13fbab28f4a2025140728a3f08c6eae", "ots_status": "submitted", "ots_proof": "digests/2026-09-28.merkle.ots", "updated": "2026-09-29T23:38:36Z"}
