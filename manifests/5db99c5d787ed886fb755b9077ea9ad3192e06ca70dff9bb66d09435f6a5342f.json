@@ -1,0 +1,699 @@
+{
+  "canonicalization": "sort entries by (venue, ticker); each -> JSON.stringify([venue, ticker, desk, cadence]); join \"\\n\"; sha256",
+  "contractCount": 115,
+  "contractSet": [
+    [
+      "kalshi",
+      "KXCPI-26DEC-T-0.1",
+      "Rates",
+      "Each ingest"
+    ],
+    [
+      "kalshi",
+      "KXCPI-26DEC-T0.0",
+      "Rates",
+      "Each ingest"
+    ],
+    [
+      "kalshi",
+      "KXCPI-26DEC-T0.1",
+      "Rates",
+      "Each ingest"
+    ],
+    [
+      "kalshi",
+      "KXCPI-26DEC-T0.2",
+      "Rates",
+      "Each ingest"
+    ],
+    [
+      "kalshi",
+      "KXCPI-26DEC-T0.3",
+      "Rates",
+      "Each ingest"
+    ],
+    [
+      "kalshi",
+      "KXCPI-26DEC-T0.4",
+      "Rates",
+      "Each ingest"
+    ],
+    [
+      "kalshi",
+      "KXCPI-26DEC-T0.5",
+      "Rates",
+      "Each ingest"
+    ],
+    [
+      "kalshi",
+      "KXCPI-26DEC-T0.6",
+      "Rates",
+      "Each ingest"
+    ],
+    [
+      "kalshi",
+      "KXCPI-26DEC-T0.7",
+      "Rates",
+      "Each ingest"
+    ],
+    [
+      "kalshi",
+      "KXCPI-26DEC-T0.8",
+      "Rates",
+      "Each ingest"
+    ],
+    [
+      "kalshi",
+      "KXCPI-26DEC-T0.9",
+      "Rates",
+      "Each ingest"
+    ],
+    [
+      "kalshi",
+      "KXCPI-26NOV-T-0.1",
+      "Rates",
+      "Each ingest"
+    ],
+    [
+      "kalshi",
+      "KXCPI-26NOV-T-0.2",
+      "Rates",
+      "Each ingest"
+    ],
+    [
+      "kalshi",
+      "KXCPI-26NOV-T-0.3",
+      "Rates",
+      "Each ingest"
+    ],
+    [
+      "kalshi",
+      "KXCPI-26NOV-T0.0",
+      "Rates",
+      "Each ingest"
+    ],
+    [
+      "kalshi",
+      "KXCPI-26NOV-T0.1",
+      "Rates",
+      "Each ingest"
+    ],
+    [
+      "kalshi",
+      "KXCPI-26NOV-T0.2",
+      "Rates",
+      "Each ingest"
+    ],
+    [
+      "kalshi",
+      "KXCPI-26NOV-T0.3",
+      "Rates",
+      "Each ingest"
+    ],
+    [
+      "kalshi",
+      "KXCPI-26NOV-T0.4",
+      "Rates",
+      "Each ingest"
+    ],
+    [
+      "kalshi",
+      "KXCPI-26NOV-T0.5",
+      "Rates",
+      "Each ingest"
+    ],
+    [
+      "kalshi",
+      "KXCPI-26OCT-T-0.1",
+      "Rates",
+      "Each ingest"
+    ],
+    [
+      "kalshi",
+      "KXCPI-26OCT-T0.0",
+      "Rates",
+      "Each ingest"
+    ],
+    [
+      "kalshi",
+      "KXCPI-26OCT-T0.1",
+      "Rates",
+      "Each ingest"
+    ],
+    [
+      "kalshi",
+      "KXCPI-26OCT-T0.2",
+      "Rates",
+      "Each ingest"
+    ],
+    [
+      "kalshi",
+      "KXCPI-26OCT-T0.3",
+      "Rates",
+      "Each ingest"
+    ],
+    [
+      "kalshi",
+      "KXCPI-26OCT-T0.4",
+      "Rates",
+      "Each ingest"
+    ],
+    [
+      "kalshi",
+      "KXCPI-26OCT-T0.5",
+      "Rates",
+      "Each ingest"
+    ],
+    [
+      "kalshi",
+      "KXCPI-26OCT-T0.6",
+      "Rates",
+      "Each ingest"
+    ],
+    [
+      "kalshi",
+      "KXCPI-26OCT-T0.7",
+      "Rates",
+      "Each ingest"
+    ],
+    [
+      "kalshi",
+      "KXCPI-26OCT-T0.8",
+      "Rates",
+      "Each ingest"
+    ],
+    [
+      "kalshi",
+      "KXCPI-26OCT-T0.9",
+      "Rates",
+      "Each ingest"
+    ],
+    [
+      "kalshi",
+      "KXCPI-26OCT-T1.0",
+      "Rates",
+      "Each ingest"
+    ],
+    [
+      "kalshi",
+      "KXCPIYOY-26DEC-T3.0",
+      "Rates",
+      "Each ingest"
+    ],
+    [
+      "kalshi",
+      "KXCPIYOY-26DEC-T3.1",
+      "Rates",
+      "Each ingest"
+    ],
+    [
+      "kalshi",
+      "KXCPIYOY-26DEC-T3.2",
+      "Rates",
+      "Each ingest"
+    ],
+    [
+      "kalshi",
+      "KXCPIYOY-26DEC-T3.3",
+      "Rates",
+      "Each ingest"
+    ],
+    [
+      "kalshi",
+      "KXCPIYOY-26DEC-T3.4",
+      "Rates",
+      "Each ingest"
+    ],
+    [
+      "kalshi",
+      "KXCPIYOY-26DEC-T3.5",
+      "Rates",
+      "Each ingest"
+    ],
+    [
+      "kalshi",
+      "KXCPIYOY-26DEC-T3.6",
+      "Rates",
+      "Each ingest"
+    ],
+    [
+      "kalshi",
+      "KXCPIYOY-26DEC-T3.7",
+      "Rates",
+      "Each ingest"
+    ],
+    [
+      "kalshi",
+      "KXCPIYOY-26DEC-T3.8",
+      "Rates",
+      "Each ingest"
+    ],
+    [
+      "kalshi",
+      "KXCPIYOY-26DEC-T3.9",
+      "Rates",
+      "Each ingest"
+    ],
+    [
+      "kalshi",
+      "KXCPIYOY-26DEC-T4.0",
+      "Rates",
+      "Each ingest"
+    ],
+    [
+      "kalshi",
+      "KXCPIYOY-26DEC-T4.1",
+      "Rates",
+      "Each ingest"
+    ],
+    [
+      "kalshi",
+      "KXCPIYOY-26DEC-T4.2",
+      "Rates",
+      "Each ingest"
+    ],
+    [
+      "kalshi",
+      "KXCPIYOY-26DEC-T4.3",
+      "Rates",
+      "Each ingest"
+    ],
+    [
+      "kalshi",
+      "KXCPIYOY-26DEC-T4.4",
+      "Rates",
+      "Each ingest"
+    ],
+    [
+      "kalshi",
+      "KXCPIYOY-26DEC-T4.5",
+      "Rates",
+      "Each ingest"
+    ],
+    [
+      "kalshi",
+      "KXCPIYOY-26DEC-T4.6",
+      "Rates",
+      "Each ingest"
+    ],
+    [
+      "kalshi",
+      "KXCPIYOY-26DEC-T4.7",
+      "Rates",
+      "Each ingest"
+    ],
+    [
+      "kalshi",
+      "KXCPIYOY-26DEC-T4.8",
+      "Rates",
+      "Each ingest"
+    ],
+    [
+      "kalshi",
+      "KXCPIYOY-26DEC-T4.9",
+      "Rates",
+      "Each ingest"
+    ],
+    [
+      "kalshi",
+      "KXCPIYOY-26DEC-T5.0",
+      "Rates",
+      "Each ingest"
+    ],
+    [
+      "kalshi",
+      "KXCPIYOY-26NOV-T3.0",
+      "Rates",
+      "Each ingest"
+    ],
+    [
+      "kalshi",
+      "KXCPIYOY-26NOV-T3.1",
+      "Rates",
+      "Each ingest"
+    ],
+    [
+      "kalshi",
+      "KXCPIYOY-26NOV-T3.2",
+      "Rates",
+      "Each ingest"
+    ],
+    [
+      "kalshi",
+      "KXCPIYOY-26NOV-T3.3",
+      "Rates",
+      "Each ingest"
+    ],
+    [
+      "kalshi",
+      "KXCPIYOY-26NOV-T3.4",
+      "Rates",
+      "Each ingest"
+    ],
+    [
+      "kalshi",
+      "KXCPIYOY-26NOV-T3.5",
+      "Rates",
+      "Each ingest"
+    ],
+    [
+      "kalshi",
+      "KXCPIYOY-26NOV-T3.6",
+      "Rates",
+      "Each ingest"
+    ],
+    [
+      "kalshi",
+      "KXCPIYOY-26NOV-T3.7",
+      "Rates",
+      "Each ingest"
+    ],
+    [
+      "kalshi",
+      "KXCPIYOY-26NOV-T3.8",
+      "Rates",
+      "Each ingest"
+    ],
+    [
+      "kalshi",
+      "KXCPIYOY-26NOV-T3.9",
+      "Rates",
+      "Each ingest"
+    ],
+    [
+      "kalshi",
+      "KXCPIYOY-26NOV-T4.0",
+      "Rates",
+      "Each ingest"
+    ],
+    [
+      "kalshi",
+      "KXCPIYOY-26NOV-T4.1",
+      "Rates",
+      "Each ingest"
+    ],
+    [
+      "kalshi",
+      "KXCPIYOY-26NOV-T4.2",
+      "Rates",
+      "Each ingest"
+    ],
+    [
+      "kalshi",
+      "KXCPIYOY-26NOV-T4.3",
+      "Rates",
+      "Each ingest"
+    ],
+    [
+      "kalshi",
+      "KXCPIYOY-26NOV-T4.4",
+      "Rates",
+      "Each ingest"
+    ],
+    [
+      "kalshi",
+      "KXCPIYOY-26NOV-T4.5",
+      "Rates",
+      "Each ingest"
+    ],
+    [
+      "kalshi",
+      "KXCPIYOY-26NOV-T4.6",
+      "Rates",
+      "Each ingest"
+    ],
+    [
+      "kalshi",
+      "KXCPIYOY-26NOV-T4.7",
+      "Rates",
+      "Each ingest"
+    ],
+    [
+      "kalshi",
+      "KXCPIYOY-26NOV-T4.8",
+      "Rates",
+      "Each ingest"
+    ],
+    [
+      "kalshi",
+      "KXCPIYOY-26NOV-T4.9",
+      "Rates",
+      "Each ingest"
+    ],
+    [
+      "kalshi",
+      "KXCPIYOY-26NOV-T5.0",
+      "Rates",
+      "Each ingest"
+    ],
+    [
+      "kalshi",
+      "KXFED-26DEC-T3.50",
+      "Rates",
+      "Each ingest"
+    ],
+    [
+      "kalshi",
+      "KXPAYROLLS-26NOV-T-25000",
+      "Rates",
+      "Each ingest"
+    ],
+    [
+      "kalshi",
+      "KXPAYROLLS-26NOV-T0",
+      "Rates",
+      "Each ingest"
+    ],
+    [
+      "kalshi",
+      "KXPAYROLLS-26NOV-T10000",
+      "Rates",
+      "Each ingest"
+    ],
+    [
+      "kalshi",
+      "KXPAYROLLS-26NOV-T100000",
+      "Rates",
+      "Each ingest"
+    ],
+    [
+      "kalshi",
+      "KXPAYROLLS-26NOV-T125000",
+      "Rates",
+      "Each ingest"
+    ],
+    [
+      "kalshi",
+      "KXPAYROLLS-26NOV-T20000",
+      "Rates",
+      "Each ingest"
+    ],
+    [
+      "kalshi",
+      "KXPAYROLLS-26NOV-T30000",
+      "Rates",
+      "Each ingest"
+    ],
+    [
+      "kalshi",
+      "KXPAYROLLS-26NOV-T40000",
+      "Rates",
+      "Each ingest"
+    ],
+    [
+      "kalshi",
+      "KXPAYROLLS-26NOV-T50000",
+      "Rates",
+      "Each ingest"
+    ],
+    [
+      "kalshi",
+      "KXPAYROLLS-26NOV-T60000",
+      "Rates",
+      "Each ingest"
+    ],
+    [
+      "kalshi",
+      "KXPAYROLLS-26NOV-T70000",
+      "Rates",
+      "Each ingest"
+    ],
+    [
+      "kalshi",
+      "KXPAYROLLS-26NOV-T80000",
+      "Rates",
+      "Each ingest"
+    ],
+    [
+      "kalshi",
+      "KXPAYROLLS-26NOV-T90000",
+      "Rates",
+      "Each ingest"
+    ],
+    [
+      "kalshi",
+      "KXRECSSNBER-26",
+      "Rates",
+      "Each ingest"
+    ],
+    [
+      "kalshi",
+      "KXRECSSNBER-27",
+      "Rates",
+      "Each ingest"
+    ],
+    [
+      "polymarket",
+      "0x03a6fbe6f1815a699d19e80d51703c8bdd44e02af5b0a6b8b87befd5ee5d7fee",
+      "Crypto",
+      "When live"
+    ],
+    [
+      "polymarket",
+      "0x0634665d15993969ad7c2323fcf8295ec9ab9e025c3ef5cde6cac7a51aae98e8",
+      "Crypto",
+      "When live"
+    ],
+    [
+      "polymarket",
+      "0x08cb733b0356792eeb0fc6bd1d6ed7356168e6b30549873b0f04dd2a9674d870",
+      "Crypto",
+      "When live"
+    ],
+    [
+      "polymarket",
+      "0x08f7415eceed16e162cadda68d5a7b19e139f1559cf7344232c5c08db39dff12",
+      "Crypto",
+      "When live"
+    ],
+    [
+      "polymarket",
+      "0x101bebb7694bc23194f7a378707f0f192c0548e0982e5619c4979cf4d053bc8c",
+      "Crypto",
+      "When live"
+    ],
+    [
+      "polymarket",
+      "0x147cccd5a8f18d1b8076d69661ed87b7b1522c62d0f2ec3cbf4267cc04118566",
+      "Crypto",
+      "When live"
+    ],
+    [
+      "polymarket",
+      "0x20d9ada9175c4e4d1fa50d47510cf915da176dd3a2f22a5aac68a2277c52de7d",
+      "Crypto",
+      "When live"
+    ],
+    [
+      "polymarket",
+      "0x2a28bd551ef6e0e45862c9f9cc1462e5de18199075d038a236b55074023ac09d",
+      "Crypto",
+      "When live"
+    ],
+    [
+      "polymarket",
+      "0x3407f91ec33975dff75a9ef4054d40d1bf73a64fbb09a4b40026639f46f8a577",
+      "Rates",
+      "Each ingest"
+    ],
+    [
+      "polymarket",
+      "0x45db1e390dccbce82b23f1b55831f15fbad35654c4d4eb09f0b723877494c548",
+      "Crypto",
+      "When live"
+    ],
+    [
+      "polymarket",
+      "0x4e811f1adbb8d217b73b5cbe959f760b63ba83d07880982b2e96487812c2ec89",
+      "Crypto",
+      "When live"
+    ],
+    [
+      "polymarket",
+      "0x5d8dcbbb70c25c8f24e1f33c7c107fbb8c9889abb8cd3f8296c59c3cef7d0f1a",
+      "Crypto",
+      "When live"
+    ],
+    [
+      "polymarket",
+      "0x6ebc56858b636277e5a9e992b7c7eea1c3163369c2dde32c5a0d57e14803eb4f",
+      "Crypto",
+      "When live"
+    ],
+    [
+      "polymarket",
+      "0x780d9458a8eba1e2e6b21f1c78846031a59bcbbdca9410a18ab257e175b15632",
+      "Crypto",
+      "When live"
+    ],
+    [
+      "polymarket",
+      "0x7b37753f44cf04ed67ab419fb9eb200494afe6be2196ba71a14cbd584ba498be",
+      "Crypto",
+      "When live"
+    ],
+    [
+      "polymarket",
+      "0x7dcf0d830f13c68315a004eaae7420f763859dfbdc5046d353aed67a5e6a0697",
+      "Crypto",
+      "When live"
+    ],
+    [
+      "polymarket",
+      "0x825ebf536e7b2fe557d95f09e285901878e95dd39e10f2d531161c1f34054b4f",
+      "Crypto",
+      "When live"
+    ],
+    [
+      "polymarket",
+      "0xa2736799689f790ccc2716caa12299b676588d3e111510ff7b94bdf9ab9933f5",
+      "Crypto",
+      "When live"
+    ],
+    [
+      "polymarket",
+      "0xcc3f3acb6865ea6e56ce2bcd6bfabdcd0917ccd6427f17d4cd0db2ef4e165d7c",
+      "Crypto",
+      "When live"
+    ],
+    [
+      "polymarket",
+      "0xd1ba0483056796ab3d74719cc56a6d10668cc5c1e71b3bf752febb3ed31b8047",
+      "Crypto",
+      "When live"
+    ],
+    [
+      "polymarket",
+      "0xd4e77ba6f29fc093509d24f508631abd445ecf506bbdc9c4c80e60256a318527",
+      "Rates",
+      "Each ingest"
+    ],
+    [
+      "polymarket",
+      "0xe5de33bab72214d0e06f66666659fff843b56f5b30fb2928648fa579018d4f9c",
+      "Crypto",
+      "When live"
+    ],
+    [
+      "polymarket",
+      "0xf2504263a9cf485e3953ed384b735e6e02967d8175ed0a146552829fd4e2ce28",
+      "Crypto",
+      "When live"
+    ],
+    [
+      "polymarket",
+      "0xf78a978c7e54af67778bde65fdd7db03fe9894a376f18708c35993cba1d1121a",
+      "Crypto",
+      "When live"
+    ],
+    [
+      "polymarket",
+      "0xfdc73f10edf0266756686f35b5712cffa828b0940fc015e0426c76c934c2105d",
+      "Rates",
+      "Each ingest"
+    ]
+  ],
+  "effectiveFrom": "2026-11-21T00:05:16.667+00:00",
+  "manifestHash": "5db99c5d787ed886fb755b9077ea9ad3192e06ca70dff9bb66d09435f6a5342f",
+  "methodologyVersion": "coverage-v1"
+}
